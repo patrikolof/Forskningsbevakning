@@ -1,0 +1,24 @@
+# En sökning per rad. Redigera fritt, spara, så gäller det från nästa körning.
+#
+#   +   betyder OCH   (båda måste finnas)
+#   |   betyder ELLER  (någon av dem)
+#   Flerordsfraser skrivs som vanligt, t.ex.  physical activity
+#   * fungerar som jokertecken, t.ex.  allerg*
+#   Rader som börjar med # ignoreras.
+#   Valfritt eget namn på sökningen:  Namn :: sökning
+#
+# Söker i titel och sammanfattning.
+
+asthma + overweight | obesity
+asthma + physical activity
+asthma + socioeconomic status
+overweight | obesity + physical activity
+asthma + children
+asthma + adolescents
+musculoskeletal pain + asthma
+musculoskeletal disorders + asthma
+
+# Exempel på fler du kan slå på genom att ta bort #:
+# COPD + physical activity
+# allerg* + children
+# Astma och KOL :: asthma | COPD | chronic obstructive pulmonary disease + cohort
