@@ -130,6 +130,110 @@
   "added": "2026-11-10"
  },
  {
+  "id": "pmid:43020371",
+  "title": "Anthropometry, Body Composition, and Airway Dysanapsis in Youth with and without Asthma",
+  "authors": "Unruh RC, Averill SH, Silva AE, Krupp NL et al.",
+  "journal": "Annals of allergy, asthma & immunology : official publication of the American College of Allergy, Asthma, & Immunology",
+  "date": "2026-11-12",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43020371/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + overweight | obesity"
+  ],
+  "added": "2026-11-13"
+ },
+ {
+  "id": "pmid:43020229",
+  "title": "Association Between Regular Black Tea Consumption and Acute Asthma Exacerbations in Children: A Prospective Cohort Study",
+  "authors": "Ahmed NY, Hamdoon GW, Al-Numan AH",
+  "journal": "Respiratory medicine",
+  "date": "2026-11-12",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43020229/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + children"
+  ],
+  "added": "2026-11-13"
+ },
+ {
+  "id": "pmid:43019904",
+  "title": "HPV vaccination initiation among preadolescents in Veneto, Italy: associations with chronic conditions and socioeconomic disadvantage",
+  "authors": "Casotto V, Manfredi MG, Bue RL, Tonon M et al.",
+  "journal": "Vaccine",
+  "date": "2026-11-12",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43019904/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + children"
+  ],
+  "added": "2026-11-13"
+ },
+ {
+  "id": "pmid:43019459",
+  "title": "Tackling the Commercial Determinants of Obesity: A Review of Key Policies and Strategies",
+  "authors": "Burgess R, Freudenberg N",
+  "journal": "Annual review of public health",
+  "date": "2026-11-12",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43019459/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-13"
+ },
+ {
+  "id": "pmid:43019058",
+  "title": "Longitudinal dynamics of gut microbiota maturation and its modulators from infancy through childhood",
+  "authors": "Peng S, Stokholm J, Thorsen J, Jiang J et al.",
+  "journal": "Cell reports",
+  "date": "2026-11-12",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43019058/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + children"
+  ],
+  "added": "2026-11-13"
+ },
+ {
+  "id": "pmid:43018690",
+  "title": "Fractional Exhaled Nitric Oxide Cut-off Values for Discriminating Asthma Exacerbation and Control in Indian Children with Coexisting Allergic Rhinitis: A Prospective Observational Cohort Study - Correspondence 3",
+  "authors": "Kumari J, Kumar P",
+  "journal": "Indian journal of pediatrics",
+  "date": "2026-11-12",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43018690/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + children"
+  ],
+  "added": "2026-11-13"
+ },
+ {
+  "id": "pmid:43018117",
+  "title": "The impact of indoor PM(2.5) and PM(10) concentrations on allergy and asthma in the Polish Mother and Child Cohort Study (REPRO_PL)",
+  "authors": "Pisarska-Troczyńska K, Wolniewicz M, Zwolińska A, Polańska K et al.",
+  "journal": "International journal of occupational medicine and environmental health",
+  "date": "2026-11-12",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43018117/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + adolescents"
+  ],
+  "added": "2026-11-13"
+ },
+ {
+  "id": "PPR:PPR1365241",
+  "title": "Sociodemographic, Clinical, and Behavioral Factors Associated with Obesity among Paraguayan Adults: A Nationally Representative Cross-Sectional Study",
+  "authors": "Cañete F, Santacruz E, Gatti L, Ávalos A, Cañete N, Barceló A, Ortellado ÁJ.",
+  "journal": "Research Square",
+  "date": "2026-11-12",
+  "url": "https://europepmc.org/article/PPR/PPR1365241",
+  "source": "Preprint",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-13"
+ },
+ {
   "id": "pmid:43016216",
   "title": "[Asthma, air pollution and climate change]",
   "authors": "Benabdelkader L, Langhart J, Grandbastien M, Charbonnier F",
@@ -182,6 +286,19 @@
   "added": "2026-11-12"
  },
  {
+  "id": "pmid:43017286",
+  "title": "Perioperative Bronchospasm Mimicking Anaphylaxis in a Patient With Undiagnosed Asthma Requiring Venovenous ECMO Support",
+  "authors": "Christensen M, Melchiors BLB, Garvey LH, Secher N",
+  "journal": "Case reports in critical care",
+  "date": "2026-11-10",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43017286/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + overweight | obesity"
+  ],
+  "added": "2026-11-13"
+ },
+ {
   "id": "pmid:43009049",
   "title": "Patterns of Physical Activity Across BMI Categories in Urban Children with Asthma",
   "authors": "Serrano-Gonzalez M, Kopel SJ, Tanzer JR, Dunsinger S et al.",
@@ -209,6 +326,34 @@
    "overweight | obesity + physical activity"
   ],
   "added": "2026-11-11"
+ },
+ {
+  "id": "pmid:43017997",
+  "title": "Exercise training program in children and adolescents with asthma: a randomized clinical trial",
+  "authors": "Reimberg MM, Scalco RS, Salu BR, Serra AJ et al.",
+  "journal": "Revista paulista de pediatria : orgao oficial da Sociedade de Pediatria de Sao Paulo",
+  "date": "2026-11-09",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43017997/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + physical activity",
+   "asthma + children",
+   "asthma + adolescents"
+  ],
+  "added": "2026-11-13"
+ },
+ {
+  "id": "pmid:43017624",
+  "title": "Prevalence and factors associated with the development of asthma in a cohort of children who were preterm infants and received passive immunization with palivizumab",
+  "authors": "Manini MB, da Silva NC, Cruz GDAG, Morcillo AM et al.",
+  "journal": "Respiratory research & clinical practice",
+  "date": "2026-11-09",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43017624/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + children"
+  ],
+  "added": "2026-11-13"
  },
  {
   "id": "pmid:43011614",
@@ -459,6 +604,19 @@
   "added": "2026-11-10"
  },
  {
+  "id": "pmid:43019708",
+  "title": "Risk factors for early-onset cancers: Results from the JANUS cohort in Norway",
+  "authors": "Botteri E, Robsahm TE, Berstad P, Langseth H et al.",
+  "journal": "European journal of cancer (Oxford, England : 1990)",
+  "date": "2026-11-05",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43019708/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-13"
+ },
+ {
   "id": "pmid:42988388",
   "title": "2026 Global Initiative for Asthma (GINA) strategy report: executive summary and key changes",
   "authors": "Reddel HK, Allan K, Bacharier LB, Bonini M et al.",
@@ -654,6 +812,19 @@
    "asthma + children"
   ],
   "added": "2026-11-10"
+ },
+ {
+  "id": "pmid:43019816",
+  "title": "Time-use composition between sleep, screen use, and physical activity: one-year longitudinal associations with substance use in Canadian adolescents",
+  "authors": "Tozetto WR, Lopes MVV, Chaput JP, Spector N et al.",
+  "journal": "Addictive behaviors",
+  "date": "2026-11-03",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43019816/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-13"
  },
  {
   "id": "pmid:42981909",
@@ -1520,6 +1691,58 @@
   "added": "2026-11-10"
  },
  {
+  "id": "pmid:43017554",
+  "title": "Prevalence and clinical characterization of malnutrition, sarcopenia and sarcopenic obesity in older adults with cardiometabolic diseases: SENIOR cross-sectional study",
+  "authors": "Santero S, Bolpagni F, Boussetta S, Coperchini F et al.",
+  "journal": "Frontiers in nutrition",
+  "date": "2026-10-28",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43017554/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-13"
+ },
+ {
+  "id": "pmid:43017135",
+  "title": "Feasibility and acceptability of a culturally adapted medical nutrition therapy intervention for adults with type 2 diabetes in Benin: a single-arm mixed-method study",
+  "authors": "Alaofè H, Degbelo Y, Bedrick EJ, Acakpo A et al.",
+  "journal": "Frontiers in nutrition",
+  "date": "2026-10-28",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43017135/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-13"
+ },
+ {
+  "id": "pmid:43017125",
+  "title": "Active and passive tobacco and nicotine product exposure and asthma control in adolescents: a retrospective study from a pediatric allergy clinic",
+  "authors": "Kangalli Boyacioglu O, Soyoz O, Bahceci S",
+  "journal": "Frontiers in pediatrics",
+  "date": "2026-10-28",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43017125/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + adolescents"
+  ],
+  "added": "2026-11-13"
+ },
+ {
+  "id": "pmid:43017045",
+  "title": "Screen time, physical activity, and overweight/obesity among school-aged children and adolescents in Heilongjiang Province, China: a cross-sectional study",
+  "authors": "Zhao X, Ru Z, Xie Y, Li H et al.",
+  "journal": "Frontiers in public health",
+  "date": "2026-10-28",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43017045/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-13"
+ },
+ {
   "id": "pmid:42981873",
   "title": "Prevalence and associated factors of cognitive impairment and frailty in patients with type 2 diabetes and/or obesity: The Japan Diabetes and Obesity Study 3 (J-DOS3)",
   "authors": "Naruse M, Kato H, Yamakage H, Tanaka M et al.",
@@ -1633,8 +1856,8 @@
   "url": "https://pubmed.ncbi.nlm.nih.gov/43011543/",
   "source": "PubMed",
   "tags": [
-   "asthma + overweight | obesity",
-   "asthma + adolescents"
+   "asthma + adolescents",
+   "asthma + overweight | obesity"
   ],
   "added": "2026-11-12"
  },
@@ -5377,6 +5600,19 @@
   "added": "2026-11-10"
  },
  {
+  "id": "pmid:43021258",
+  "title": "Cost-effectiveness analysis of pharmaceutical care in the management of pediatric asthma in China",
+  "authors": "Lin G, Chen D, Huang Z",
+  "journal": "BMC health services research",
+  "date": "2026-08-14",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43021258/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + children"
+  ],
+  "added": "2026-11-13"
+ },
+ {
   "id": "pmid:43009784",
   "title": "Body mass index is positively associated with cardiovascular risk measured by non-invasive cardiovascular parameters: a cross-sectional study",
   "authors": "Wu S, Meucci M, Liu Z, Kowalsky RJ",
@@ -5414,6 +5650,19 @@
    "asthma + children"
   ],
   "added": "2026-11-10"
+ },
+ {
+  "id": "pmid:43021067",
+  "title": "Predictors of vaso-occlusive crisis-related emergency department encounters in children with sickle cell disease in Western French Guiana",
+  "authors": "Bafunyembaka G, Clodyl H, Kuamba P, Samou C et al.",
+  "journal": "BMC emergency medicine",
+  "date": "2026-08-13",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43021067/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + children"
+  ],
+  "added": "2026-11-13"
  },
  {
   "id": "pmid:43010013",
@@ -5597,6 +5846,19 @@
    "overweight | obesity + physical activity"
   ],
   "added": "2026-11-10"
+ },
+ {
+  "id": "pmid:43019104",
+  "title": "Protection against diet-induced weight gain by a single-point mutation in Kir2.1 channels",
+  "authors": "Beverley KM, Munoz MD, Ahn SJ, Granados ST et al.",
+  "journal": "Scientific reports",
+  "date": "2026-08-06",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43019104/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-13"
  },
  {
   "id": "pmid:42937303",
