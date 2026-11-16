@@ -130,6 +130,58 @@
   "added": "2026-11-10"
  },
  {
+  "id": "pmid:43035613",
+  "title": "The Underrepresentation of African Immigrants in Lifestyle Interventions for Black Adults in the US: A Systematic Review",
+  "authors": "Bannor R, Idiong CI, Razak SA, Foy J et al.",
+  "journal": "Current obesity reports",
+  "date": "2026-11-16",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43035613/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-16"
+ },
+ {
+  "id": "pmid:43035632",
+  "title": "Diurnal Patterns of Accelerometer-Measured Physical Activity, Genetic Risk and Incident Obesity: A Cohort Study of 58 877 Participants",
+  "authors": "Zhang S, Luo K, Xu X, Sun M et al.",
+  "journal": "Diabetes, obesity & metabolism",
+  "date": "2026-11-15",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43035632/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-16"
+ },
+ {
+  "id": "pmid:43035396",
+  "title": "Predictors of Parental Strain in Pediatric Atopic Dermatitis: Findings From the US National Survey of Children's Health",
+  "authors": "Zheng L, Mercante M, Hagander M, Tocco E et al.",
+  "journal": "Pediatric dermatology",
+  "date": "2026-11-15",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43035396/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + children"
+  ],
+  "added": "2026-11-16"
+ },
+ {
+  "id": "pmid:43035949",
+  "title": "Contributions of lifestyle risk factors to socio-economic disparities in active and total life expectancy among older adults: A longitudinal cohort study",
+  "authors": "Malkowski OS, Davis-Plourde K, Western MJ, Gill TM",
+  "journal": "The journals of gerontology. Series A, Biological sciences and medical sciences",
+  "date": "2026-11-14",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43035949/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-16"
+ },
+ {
   "id": "pmid:43034662",
   "title": "Central Obesity and Estimated Coronary Heart Disease Risk Among Jordanian Women Aged 30-50 Years: A Framingham Risk Score Analysis",
   "authors": "Alboqai OK, Obeidat B, Ebqa'ai MA, O Ibrahim M et al.",
@@ -522,6 +574,19 @@
    "overweight | obesity + physical activity"
   ],
   "added": "2026-11-13"
+ },
+ {
+  "id": "pmid:43036745",
+  "title": "Bidirectional Crosstalk Between Macrophage Efferocytosis and Polarization in Asthma: Endotype-Specific Mechanisms and Therapeutic Perspectives",
+  "authors": "Wang P, Li W, Li R, Li X et al.",
+  "journal": "Journal of asthma and allergy",
+  "date": "2026-11-11",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43036745/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + overweight | obesity"
+  ],
+  "added": "2026-11-16"
  },
  {
   "id": "pmid:43016216",
@@ -3491,6 +3556,19 @@
   "added": "2026-11-10"
  },
  {
+  "id": "pmid:43036690",
+  "title": "Predicting severity and long-term respiratory health in pediatric adenovirus pneumonia: A retrospective cohort study integrating risk modeling and atopic status",
+  "authors": "Zhang B, Liu S, Liu F, Liu B et al.",
+  "journal": "Infectious medicine",
+  "date": "2026-10-10",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43036690/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + children"
+  ],
+  "added": "2026-11-16"
+ },
+ {
   "id": "pmid:42854835",
   "title": "Inhaled, Nasal, and Topical Corticosteroid Burden and Association With Corticosteroid-Associated Adverse Events",
   "authors": "Håkansson KEJ, Skov IR, Andersen SAW, Ali Z et al.",
@@ -4129,6 +4207,19 @@
    "asthma + overweight | obesity"
   ],
   "added": "2026-11-10"
+ },
+ {
+  "id": "pmid:43036415",
+  "title": "Factors Contributing to Obesity Among Indigenous Peoples of Canada: A Narrative Review",
+  "authors": "Aminaei D, Ahmed M, Ozlati A, Clemens KK et al.",
+  "journal": "Canadian journal of kidney health and disease",
+  "date": "2026-09-30",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43036415/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-16"
  },
  {
   "id": "pmid:42999805",
@@ -6750,6 +6841,19 @@
    "asthma + overweight | obesity"
   ],
   "added": "2026-11-10"
+ },
+ {
+  "id": "pmid:43036379",
+  "title": "Immunometabolic alterations in young adults with obesity are accompanied by divergent monocyte and muscle mitochondrial bioenergetic profiles",
+  "authors": "Ursel S, Nekkanti S, Day K, Sandilands RE et al.",
+  "journal": "Metabologia",
+  "date": "2026-01-01",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43036379/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-16"
  },
  {
   "id": "pmid:43031530",
