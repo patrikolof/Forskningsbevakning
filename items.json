@@ -130,6 +130,58 @@
   "added": "2026-11-10"
  },
  {
+  "id": "pmid:43039960",
+  "title": "A 6-month randomized clinical trial to test the effect of different dietary interventions on abdominal fat components and cardiometabolic profile in overweight adults",
+  "authors": "Rodrigues IG, Arcoverde GMPF, do Nascimento CLC, da Silva NF et al.",
+  "journal": "European journal of clinical nutrition",
+  "date": "2026-11-16",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43039960/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-17"
+ },
+ {
+  "id": "pmid:43039154",
+  "title": "Clinical and proteomic features of children with Type 2-low asthma",
+  "authors": "Fitzpatrick AM, Stephenson ST, Tayidi IT, Dallalio G et al.",
+  "journal": "The Journal of allergy and clinical immunology",
+  "date": "2026-11-16",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43039154/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + children"
+  ],
+  "added": "2026-11-17"
+ },
+ {
+  "id": "pmid:43038535",
+  "title": "A Social Media Mining and Questionnaire Survey Hybrid Approach to Characterizing Caregiver Knowledge, Attitudes, and Practices on House Dust Mite Control: Cross-Sectional Study",
+  "authors": "Yang P, Xian R, Li J, Zhao J et al.",
+  "journal": "Journal of medical Internet research",
+  "date": "2026-11-16",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43038535/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + children"
+  ],
+  "added": "2026-11-17"
+ },
+ {
+  "id": "pmid:43037194",
+  "title": "Higher subsequent food allergy risk in children with atopic dermatitis compared with asthma",
+  "authors": "Shih PC, Lin YC, Chang YF, Wu PY et al.",
+  "journal": "Journal of the European Academy of Dermatology and Venereology : JEADV",
+  "date": "2026-11-16",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43037194/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + children"
+  ],
+  "added": "2026-11-17"
+ },
+ {
   "id": "pmid:43035613",
   "title": "The Underrepresentation of African Immigrants in Lifestyle Interventions for Black Adults in the US: A Systematic Review",
   "authors": "Bannor R, Idiong CI, Razak SA, Foy J et al.",
@@ -141,6 +193,45 @@
    "overweight | obesity + physical activity"
   ],
   "added": "2026-11-16"
+ },
+ {
+  "id": "PPR:PPR1368675",
+  "title": "Evaluation of out-of-hospital management of asthma attacks prior to consultation at the paediatric emergency department in Martinique",
+  "authors": "Julia A, Denis J.",
+  "journal": "medRxiv",
+  "date": "2026-11-16",
+  "url": "https://europepmc.org/article/PPR/PPR1368675",
+  "source": "Preprint",
+  "tags": [
+   "asthma + children"
+  ],
+  "added": "2026-11-17"
+ },
+ {
+  "id": "PPR:PPR1368214",
+  "title": "Participant Motivation and Experience in a Prospective Study of 24-Hour Movement During Pregnancy",
+  "authors": "Ryan¹ E, Asera¹ A, Hallenbeck BR, Gabriel KP, Manber R, Hedderson MM, Badon SE.",
+  "journal": "Research Square",
+  "date": "2026-11-16",
+  "url": "https://europepmc.org/article/PPR/PPR1368214",
+  "source": "Preprint",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-17"
+ },
+ {
+  "id": "PPR:PPR1368000",
+  "title": "Water-Damaged Buildings and Health: An Updated Review of the Evidence, Sources of Bias, and Co-Occurring Conditions",
+  "authors": "Stafford D, Stafford A.",
+  "journal": "Preprints.org",
+  "date": "2026-11-16",
+  "url": "https://europepmc.org/article/PPR/PPR1368000",
+  "source": "Preprint",
+  "tags": [
+   "asthma + children"
+  ],
+  "added": "2026-11-17"
  },
  {
   "id": "pmid:43035632",
@@ -1441,6 +1532,19 @@
    "asthma + children"
   ],
   "added": "2026-11-10"
+ },
+ {
+  "id": "pmid:43037176",
+  "title": "Improving Inhaled Corticosteroid Prescribing Practices for Children Admitted With an Asthma Exacerbation",
+  "authors": "Solomon Z, Tsirilakis K",
+  "journal": "Pediatric pulmonology",
+  "date": "2026-11-01",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43037176/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + children"
+  ],
+  "added": "2026-11-17"
  },
  {
   "id": "pmid:43024401",
@@ -6005,6 +6109,19 @@
    "asthma + overweight | obesity"
   ],
   "added": "2026-11-10"
+ },
+ {
+  "id": "pmid:43040493",
+  "title": "Co-creation and prototyping of a COMprehensive health and nutrition Program for AdolescentS in Schools in Tanzania - the COMPASS study",
+  "authors": "Ferrero E, Kashamba K, Yusufu I, Kabanda A et al.",
+  "journal": "BMC public health",
+  "date": "2026-08-21",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43040493/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-17"
  },
  {
   "id": "pmid:42968723",
