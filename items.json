@@ -130,6 +130,110 @@
   "added": "2026-11-10"
  },
  {
+  "id": "pmid:43046770",
+  "title": "The impact of childhood obesity on the developing skeleton",
+  "authors": "Baran E, Wójcik M",
+  "journal": "Pediatric endocrinology, diabetes, and metabolism",
+  "date": "2026-11-18",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43046770/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-18"
+ },
+ {
+  "id": "pmid:43046703",
+  "title": "Interrupting Prolonged Sitting Improves Glucose Regulation More Than Continuous Walking in Adults With Overweight/Obesity",
+  "authors": "Pinto AJ, De Jong NP, Broussard JL, Simon C et al.",
+  "journal": "Obesity (Silver Spring, Md.)",
+  "date": "2026-11-18",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43046703/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-18"
+ },
+ {
+  "id": "pmid:43045958",
+  "title": "Does succinic acid treatment improve metabolic health in a male murine model of early ageing?",
+  "authors": "Ives SJ, Zaleski KS, Slocum C, O'Brien G et al.",
+  "journal": "Experimental physiology",
+  "date": "2026-11-17",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43045958/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-18"
+ },
+ {
+  "id": "pmid:43044975",
+  "title": "From Obesity to Cancer Cachexia: PI3K/AKT/MTOR Signaling Across the Energy Balance Spectrum - A Scoping Review of Body Size, Composition, and Cancer Outcomes",
+  "authors": "Talal Akasheh RL, Mahenge CM, Kalam F, Adib A et al.",
+  "journal": "Advances in nutrition (Bethesda, Md.)",
+  "date": "2026-11-17",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43044975/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-18"
+ },
+ {
+  "id": "pmid:43044042",
+  "title": "Sex-Based Comparison of Remission in Patients with Severe Type 2 Asthma Treated with Biologics: A Real-World Analysis from the \"Southern Italy Network on Severe Asthma Therapy\"",
+  "authors": "Scioscia G, Quarato CMI, Benfante A, Caiaffa MF et al.",
+  "journal": "Respiration; international review of thoracic diseases",
+  "date": "2026-11-17",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43044042/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + overweight | obesity"
+  ],
+  "added": "2026-11-18"
+ },
+ {
+  "id": "pmid:43043580",
+  "title": "Insufficient Sleep, Circadian Targets, Weight Management, and Cardiometabolic Health",
+  "authors": "Zimmerman GA, Stegman AP, Bhutani S, Depner CM",
+  "journal": "Current obesity reports",
+  "date": "2026-11-17",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43043580/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-18"
+ },
+ {
+  "id": "pmid:43042892",
+  "title": "Toward a Healthier Future Through Obesity Prevention and Care: The JAMA Summit Report on Obesity",
+  "authors": "Cappola AR, Angus DC, Ahima RS, Aronne LJ et al.",
+  "journal": "JAMA",
+  "date": "2026-11-17",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43042892/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-18"
+ },
+ {
+  "id": "pmid:43042717",
+  "title": "Obesity in paediatric inflammatory bowel disease: The emerging double burden-A narrative review",
+  "authors": "Benedetto MD, Scarallo L, Wierdsma N, Lionetti P et al.",
+  "journal": "Journal of pediatric gastroenterology and nutrition",
+  "date": "2026-11-17",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43042717/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-18"
+ },
+ {
   "id": "pmid:43039960",
   "title": "A 6-month randomized clinical trial to test the effect of different dietary interventions on abdominal fat components and cardiometabolic profile in overweight adults",
   "authors": "Rodrigues IG, Arcoverde GMPF, do Nascimento CLC, da Silva NF et al.",
@@ -193,6 +297,19 @@
    "overweight | obesity + physical activity"
   ],
   "added": "2026-11-16"
+ },
+ {
+  "id": "PPR:PPR1369660",
+  "title": "Usual dietary fibre intake in Australia: A comparison of the 2011-12 and 2023 National Nutrition and Physical Activity Surveys",
+  "authors": "Lu J, Leech R, Snelson M, Marques F.",
+  "journal": "medRxiv",
+  "date": "2026-11-16",
+  "url": "https://europepmc.org/article/PPR/PPR1369660",
+  "source": "Preprint",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-18"
  },
  {
   "id": "PPR:PPR1368675",
@@ -561,6 +678,19 @@
    "asthma + children"
   ],
   "added": "2026-11-14"
+ },
+ {
+  "id": "pmid:43020492",
+  "title": "Infant RSV immunity study (IRIS): protocol for a prospective birth cohort in Vancouver, Canada examining how age at respiratory syncytial virus exposure affects how infants respond to the virus immunologically",
+  "authors": "Watts AW, O'Malley C, Majdoubi A, Golzan SA et al.",
+  "journal": "BMJ open",
+  "date": "2026-11-12",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43020492/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + children"
+  ],
+  "added": "2026-11-18"
  },
  {
   "id": "pmid:43020371",
@@ -4144,6 +4274,19 @@
   "added": "2026-11-10"
  },
  {
+  "id": "pmid:43042202",
+  "title": "Prevalence and predictors of anxiety and depression in medical students from low- and middle-income countries",
+  "authors": "Rashid F, Azeem MZ, Khan HMA, Malik A",
+  "journal": "Pakistan journal of medical sciences",
+  "date": "2026-10-01",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43042202/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-18"
+ },
+ {
   "id": "pmid:42982704",
   "title": "Inhaled corticosteroid adherence in pediatric asthma: A systematic review of measurement methods and temporal patterns",
   "authors": "Rodriguez-Martinez CE, Sossa-Briceño MP, Castro-Rodriguez JA",
@@ -4875,6 +5018,19 @@
    "asthma + overweight | obesity"
   ],
   "added": "2026-11-10"
+ },
+ {
+  "id": "pmid:43041616",
+  "title": "[Prevalence and Influencing Factors of Comorbidities of Myopia, Overweight and Obesity, and Spinal Curvature Abnormalities Among Primary and Secondary School Students]",
+  "authors": "He Y, Guo Z, Liu S, Kuang D et al.",
+  "journal": "Sichuan da xue xue bao. Yi xue ban = Journal of Sichuan University. Medical science edition",
+  "date": "2026-09-20",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43041616/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-18"
  },
  {
   "id": "pmid:42764096",
@@ -6070,6 +6226,19 @@
    "overweight | obesity + physical activity"
   ],
   "added": "2026-11-10"
+ },
+ {
+  "id": "pmid:43045971",
+  "title": "Maternal obesity, overweight, and pregnancy outcomes: a cross-sectional study at Korle Bu Teaching Hospital, Ghana",
+  "authors": "Sefogah PE, Tagoe S, Tagoe E, Swarray-Deen A",
+  "journal": "BMC pregnancy and childbirth",
+  "date": "2026-08-24",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43045971/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-18"
  },
  {
   "id": "pmid:42707785",
