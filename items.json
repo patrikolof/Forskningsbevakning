@@ -130,6 +130,45 @@
   "added": "2026-11-10"
  },
  {
+  "id": "pmid:43064193",
+  "title": "Cold adaptation enhances sustained alternative thermogenic mechanisms to counteract obesity in mice",
+  "authors": "Bardova K, Janovska P, Vavrova A, Haasova E et al.",
+  "journal": "Molecular metabolism",
+  "date": "2026-11-20",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43064193/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-21"
+ },
+ {
+  "id": "pmid:43063769",
+  "title": "Longitudinal pulmonary function in children with sickle cell disease after acute chest syndrome: a retrospective cohort study",
+  "authors": "Maréchal P, Viprey M, Pietrement C, Mauran P et al.",
+  "journal": "Archives de pediatrie : organe officiel de la Societe francaise de pediatrie",
+  "date": "2026-11-20",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43063769/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + children"
+  ],
+  "added": "2026-11-21"
+ },
+ {
+  "id": "pmid:43061908",
+  "title": "Asthma Blitz Days: An Innovative Approach to Asthma Management in Schools",
+  "authors": "Mosley-Williams F, Sharpe J, Blount T, Horn K et al.",
+  "journal": "NASN school nurse (Print)",
+  "date": "2026-11-20",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43061908/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + children"
+  ],
+  "added": "2026-11-21"
+ },
+ {
   "id": "pmid:43059349",
   "title": "Real-World Weight Changes of Prescribed Semaglutide Medications and Application of a Novel Cognitive-Behavioral Protocol: A Nonrandomized 12-Month Retrospective Assessment of Women With Obesity",
   "authors": "Annesi JJ, Post PG, Bakhshi M",
@@ -143,6 +182,19 @@
   "added": "2026-11-20"
  },
  {
+  "id": "PPR:PPR1372999",
+  "title": "Cost-related unmet medical care in families of children with asthma",
+  "authors": "Yang Q, Chen G, Li H, Sun T, Li Z, Liu Y, Huang D, Chen M, Zeng L, Zheng Z, Chen R.",
+  "journal": "Research Square",
+  "date": "2026-11-20",
+  "url": "https://europepmc.org/article/PPR/PPR1372999",
+  "source": "Preprint",
+  "tags": [
+   "asthma + children"
+  ],
+  "added": "2026-11-21"
+ },
+ {
   "id": "pmid:43059024",
   "title": "Early-Life Overfeeding Drives Lasting Species-Level Shifts of the Gut Microbiome and Exacerbates Allergic Asthma in Mice",
   "authors": "Alhasan MM, Kahhaleh FG, Datye S, Arntz JL et al.",
@@ -151,8 +203,8 @@
   "url": "https://pubmed.ncbi.nlm.nih.gov/43059024/",
   "source": "PubMed",
   "tags": [
-   "asthma + overweight | obesity",
-   "asthma + children"
+   "asthma + children",
+   "asthma + overweight | obesity"
   ],
   "added": "2026-11-20"
  },
@@ -191,8 +243,8 @@
   "url": "https://pubmed.ncbi.nlm.nih.gov/43057333/",
   "source": "PubMed",
   "tags": [
-   "asthma + overweight | obesity",
-   "asthma + children"
+   "asthma + children",
+   "asthma + overweight | obesity"
   ],
   "added": "2026-11-20"
  },
@@ -296,9 +348,9 @@
   "url": "https://europepmc.org/article/PPR/PPR1371738",
   "source": "Preprint",
   "tags": [
-   "asthma + overweight | obesity",
+   "asthma + adolescents",
    "asthma + children",
-   "asthma + adolescents"
+   "asthma + overweight | obesity"
   ],
   "added": "2026-11-20"
  },
@@ -311,9 +363,9 @@
   "url": "https://europepmc.org/article/PPR/PPR1371484",
   "source": "Preprint",
   "tags": [
-   "asthma + overweight | obesity",
+   "asthma + adolescents",
    "asthma + children",
-   "asthma + adolescents"
+   "asthma + overweight | obesity"
   ],
   "added": "2026-11-20"
  },
@@ -443,8 +495,8 @@
   "url": "https://pubmed.ncbi.nlm.nih.gov/43045154/",
   "source": "PubMed",
   "tags": [
-   "asthma + physical activity",
-   "asthma + adolescents"
+   "asthma + adolescents",
+   "asthma + physical activity"
   ],
   "added": "2026-11-20"
  },
@@ -1459,6 +1511,32 @@
   "added": "2026-11-10"
  },
  {
+  "id": "pmid:43065467",
+  "title": "Construction of a nomogram prediction model for symptom residue after tonsillectomy and adenoidectomy in children with obstructive sleep apnea-hypopnea syndrome based on lasso-logistic regression analysis",
+  "authors": "Wang X, Liang H, Li H, Li Y",
+  "journal": "Frontiers in pediatrics",
+  "date": "2026-11-06",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43065467/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + children"
+  ],
+  "added": "2026-11-21"
+ },
+ {
+  "id": "pmid:43061520",
+  "title": "Long-term effect of Ozempic vs. bariatric surgery on weight loss in Lebanon",
+  "authors": "Khairallah M, Chahine A, Bassil J, Karam C et al.",
+  "journal": "JPRAS open",
+  "date": "2026-11-06",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43061520/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-21"
+ },
+ {
   "id": "pmid:43028544",
   "title": "Serum Zinc Concentration in Relation to Asthma Control and Treatment-Step-Based Severity in Adults: A Retrospective Cross-Sectional Study",
   "authors": "Tülümen Öztürk R, Titiz Yılmaztepe H, Aslantekin Eken Ö, Çoban B et al.",
@@ -2007,6 +2085,19 @@
    "asthma + children"
   ],
   "added": "2026-11-10"
+ },
+ {
+  "id": "pmid:43062431",
+  "title": "Association of sleep disturbances with poor asthma control in children: Unveiling a hidden burden",
+  "authors": "Güvenir FA, Kılıç EK, Dere R, Selmanoğlu A et al.",
+  "journal": "Allergologia et immunopathologia",
+  "date": "2026-11-01",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43062431/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + children"
+  ],
+  "added": "2026-11-21"
  },
  {
   "id": "pmid:43052682",
@@ -3659,6 +3750,19 @@
   "added": "2026-11-10"
  },
  {
+  "id": "pmid:43061057",
+  "title": "Prevalence of Prehypertension and Its Association With Sedentary Lifestyle Indicators Among Adults: A Cross-Sectional Study",
+  "authors": "Jadhav AS, Durgawale AM",
+  "journal": "Cureus",
+  "date": "2026-10-20",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43061057/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-21"
+ },
+ {
   "id": "pmid:42973420",
   "title": "Comparison of Clinical and Microbiological Features in Children with Protracted Bacterial Bronchitis and Bronchiectasis",
   "authors": "Hepkaya E, Özkozacı T",
@@ -4666,8 +4770,8 @@
   "url": "https://pubmed.ncbi.nlm.nih.gov/43055042/",
   "source": "PubMed",
   "tags": [
-   "asthma + children",
-   "asthma + adolescents"
+   "asthma + adolescents",
+   "asthma + children"
   ],
   "added": "2026-11-20"
  },
@@ -7616,6 +7720,19 @@
    "overweight | obesity + physical activity"
   ],
   "added": "2026-11-10"
+ },
+ {
+  "id": "pmid:43059613",
+  "title": "Effect of Exercise Intensity on the Obesity-Associated Risk of Periodontitis in Korean Adults",
+  "authors": "Yoon MS",
+  "journal": "Journal of dental hygiene science",
+  "date": "2026-03-31",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43059613/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-21"
  },
  {
   "id": "pmid:42775035",
