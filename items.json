@@ -130,6 +130,58 @@
   "added": "2026-11-10"
  },
  {
+  "id": "pmid:43067650",
+  "title": "Racial/Ethnic and Sex Disparities in Obesity: Socioeconomic, Dietary, and Physical Activity Predictors from NHANES 2017-2018",
+  "authors": "Choupani F, Dougherty CM, Zaslavsky O, Tokac U",
+  "journal": "Journal of racial and ethnic health disparities",
+  "date": "2026-11-21",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43067650/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-22"
+ },
+ {
+  "id": "pmid:43067529",
+  "title": "Retention Across Developmental Stages: Insights from a Longitudinal Birth Cohort",
+  "authors": "Salamon OK, Gagalis L, Yaniv PE, Simpson G et al.",
+  "journal": "The Journal of allergy and clinical immunology",
+  "date": "2026-11-21",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43067529/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + children"
+  ],
+  "added": "2026-11-22"
+ },
+ {
+  "id": "pmid:43067475",
+  "title": "Early-Life Farm Exposure and Food Allergy",
+  "authors": "Yazici D, He W, Tonetti EC, Troyer S et al.",
+  "journal": "Annals of allergy, asthma & immunology : official publication of the American College of Allergy, Asthma, & Immunology",
+  "date": "2026-11-21",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43067475/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + children"
+  ],
+  "added": "2026-11-22"
+ },
+ {
+  "id": "pmid:43067379",
+  "title": "Real-World Outcomes of Long-Acting Beta-Agonist Add-On Therapy to Inhaled Corticosteroids in Preschool Children with Asthma: A Multicenter Retrospective Study",
+  "authors": "Hazan G, Jellinek S, Armoni-Domany K, Gileles-Hillel A",
+  "journal": "Chest",
+  "date": "2026-11-21",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43067379/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + children"
+  ],
+  "added": "2026-11-22"
+ },
+ {
   "id": "pmid:43064193",
   "title": "Cold adaptation enhances sustained alternative thermogenic mechanisms to counteract obesity in mice",
   "authors": "Bardova K, Janovska P, Vavrova A, Haasova E et al.",
@@ -696,6 +748,19 @@
   "added": "2026-11-17"
  },
  {
+  "id": "pmid:43065759",
+  "title": "Impulse Oscillometry Reveals Altered Airway Mechanics in Children with Alternaria alternata Sensitization and Allergic Respiratory Disease",
+  "authors": "Mercan A, Atar Bese S, Kalkan F, Gulec Koksal Z et al.",
+  "journal": "Journal of asthma and allergy",
+  "date": "2026-11-15",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43065759/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + children"
+  ],
+  "added": "2026-11-22"
+ },
+ {
   "id": "pmid:43035632",
   "title": "Diurnal Patterns of Accelerometer-Measured Physical Activity, Genetic Risk and Incident Obesity: A Cohort Study of 58 877 Participants",
   "authors": "Zhang S, Luo K, Xu X, Sun M et al.",
@@ -837,6 +902,19 @@
    "overweight | obesity + physical activity"
   ],
   "added": "2026-11-14"
+ },
+ {
+  "id": "pmid:43068278",
+  "title": "Influenza vaccination coverage and associated factors, including asthma diagnosis, in Korea: analysis of the Korea national health and nutrition examination survey (2014-2021)",
+  "authors": "Park YM, Gu NY, Kim H, Kim HH et al.",
+  "journal": "Preventive medicine reports",
+  "date": "2026-11-13",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43068278/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + adolescents"
+  ],
+  "added": "2026-11-22"
  },
  {
   "id": "pmid:43057081",
@@ -1509,6 +1587,32 @@
    "overweight | obesity + physical activity"
   ],
   "added": "2026-11-10"
+ },
+ {
+  "id": "pmid:43066169",
+  "title": "Heart rate variability in police research: a scoping review of objective psychophysiological assessment",
+  "authors": "Andersen JP, Chan JF, Little C, Scott SC et al.",
+  "journal": "Frontiers in psychology",
+  "date": "2026-11-06",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43066169/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-22"
+ },
+ {
+  "id": "pmid:43065643",
+  "title": "Beyond medication: rethinking postpartum obesity management in the era of increasing GLP-1 receptor agonist use",
+  "authors": "Achick-Muyu VA",
+  "journal": "Frontiers in public health",
+  "date": "2026-11-06",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43065643/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-22"
  },
  {
   "id": "pmid:43065467",
@@ -3607,6 +3711,19 @@
   "added": "2026-11-10"
  },
  {
+  "id": "pmid:43067593",
+  "title": "Evaluation and comparison of metabolic syndrome prevalence using Joint Interim Statement and International Diabetes Federation definitions, and its contributing factors in the Persian cohort study",
+  "authors": "Eghtesad S, Rayati M, Matin S, Faramarzi E et al.",
+  "journal": "Nutrition, metabolism, and cardiovascular diseases : NMCD",
+  "date": "2026-10-21",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43067593/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-22"
+ },
+ {
   "id": "pmid:42984781",
   "title": "Prevalence of masked obesity and its association with body composition and lifestyle factors in young adults: a cross-sectional analysis",
   "authors": "Li Y, Zhang T, Chen L",
@@ -3921,6 +4038,19 @@
    "asthma + adolescents"
   ],
   "added": "2026-11-10"
+ },
+ {
+  "id": "pmid:43068078",
+  "title": "Biologics for moderate-to-severe eosinophilic asthma in children: a network meta-analysis",
+  "authors": "He Y, Gao Y, Wan N",
+  "journal": "American journal of translational research",
+  "date": "2026-10-15",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43068078/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + children"
+  ],
+  "added": "2026-11-22"
  },
  {
   "id": "pmid:42928685",
@@ -7746,6 +7876,19 @@
    "asthma + overweight | obesity"
   ],
   "added": "2026-11-10"
+ },
+ {
+  "id": "pmid:43066344",
+  "title": "Factors Associated with Overeating in Adults with Spinal Cord Injury or Disorders",
+  "authors": "Farkas GJ, Heinemann AW, Wong AWK, Steiger-Chadwick RM et al.",
+  "journal": "Topics in spinal cord injury rehabilitation",
+  "date": "2026-01-01",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43066344/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-22"
  },
  {
   "id": "pmid:43036379",
