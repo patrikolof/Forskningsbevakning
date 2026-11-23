@@ -130,6 +130,58 @@
   "added": "2026-11-10"
  },
  {
+  "id": "pmid:43070036",
+  "title": "Disparities by insurance type across pediatric readmission/emergency revisit measures: A cross-sectional study",
+  "authors": "Nash KA, Zaniletti I, Hall M, Bardach N et al.",
+  "journal": "Journal of hospital medicine",
+  "date": "2026-11-23",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43070036/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + children"
+  ],
+  "added": "2026-11-23"
+ },
+ {
+  "id": "pmid:43068586",
+  "title": "Different diameters of particulate matter exposure and health outcomes: An umbrella review",
+  "authors": "Lu G, Jin Y, Zeng B, Luo Y et al.",
+  "journal": "Ecotoxicology and environmental safety",
+  "date": "2026-11-22",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43068586/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + overweight | obesity"
+  ],
+  "added": "2026-11-23"
+ },
+ {
+  "id": "PPR:PPR1373876",
+  "title": "The effect of a self-care education package based on a mobile phone application (Allergy Yar) on sleepiness and medication adherence in adolescents with allergic rhinitis: Randomized Clinical Trial",
+  "authors": "Khalesro H, Karimi Z, Salehnasab C, Fazel A, Afrasiabifar A.",
+  "journal": "Research Square",
+  "date": "2026-11-22",
+  "url": "https://europepmc.org/article/PPR/PPR1373876",
+  "source": "Preprint",
+  "tags": [
+   "asthma + adolescents"
+  ],
+  "added": "2026-11-23"
+ },
+ {
+  "id": "pmid:43069817",
+  "title": "Lifestyle- and health-related challenges in children with autism spectrum disorder: A systematic review",
+  "authors": "Imam S, Rahman MM, Uddin MS, Morad MRU et al.",
+  "journal": "PCN reports : psychiatry and clinical neurosciences",
+  "date": "2026-11-21",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43069817/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-23"
+ },
+ {
   "id": "pmid:43067650",
   "title": "Racial/Ethnic and Sex Disparities in Obesity: Socioeconomic, Dietary, and Physical Activity Predictors from NHANES 2017-2018",
   "authors": "Choupani F, Dougherty CM, Zaslavsky O, Tokac U",
@@ -1733,6 +1785,19 @@
   "added": "2026-11-10"
  },
  {
+  "id": "pmid:43069564",
+  "title": "Correction: Özdemir, E.Z.; Bektaş, M. Family Nutrition and Physical Activity Practices Associated with Overweight and Obesity in Children: A Cross-Sectional Study. Children 2026, 13, 123",
+  "authors": "Özdemir EZ, Bektaş M",
+  "journal": "Children (Basel, Switzerland)",
+  "date": "2026-11-05",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43069564/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-23"
+ },
+ {
   "id": "pmid:43019708",
   "title": "Risk factors for early-onset cancers: Results from the JANUS cohort in Norway",
   "authors": "Botteri E, Robsahm TE, Berstad P, Langseth H et al.",
@@ -2189,6 +2254,19 @@
    "asthma + children"
   ],
   "added": "2026-11-10"
+ },
+ {
+  "id": "pmid:43069677",
+  "title": "Real World Outcomes of Dupilumab in Children With Severe Asthma",
+  "authors": "Al-Dhmour H, Zahra MA, Jamil H, Rastogi D",
+  "journal": "Pediatric pulmonology",
+  "date": "2026-11-01",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43069677/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + children"
+  ],
+  "added": "2026-11-23"
  },
  {
   "id": "pmid:43062431",
@@ -6664,6 +6742,19 @@
   "added": "2026-11-10"
  },
  {
+  "id": "pmid:43069169",
+  "title": "Association between fibromyalgia and severity of coronary artery disease assessed by SYNTAX score: a cross-sectional study of 347 patients",
+  "authors": "Atabati E, Ghazaee H, Hosseini SH, Khajavi O et al.",
+  "journal": "Advances in rheumatology (London, England)",
+  "date": "2026-08-28",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43069169/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-23"
+ },
+ {
   "id": "pmid:42999806",
   "title": "NoWeigh: the development of a body neutrality app to support physical activity promotion in adult women with overweight or obesity",
   "authors": "Nuss K, Adjei I, Poirier A",
@@ -7876,6 +7967,32 @@
    "asthma + overweight | obesity"
   ],
   "added": "2026-11-10"
+ },
+ {
+  "id": "pmid:43070465",
+  "title": "Implementation determinants and strategies for a community-based healthy eating and active living intervention for mothers: a qualitative study",
+  "authors": "Gilbert A, Walsh-Bailey C, Christmas S, Farabi SS et al.",
+  "journal": "Translational behavioral medicine",
+  "date": "2026-01-07",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43070465/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-23"
+ },
+ {
+  "id": "pmid:43069700",
+  "title": "Risk Factors for Overweight and Obesity Among Adults in West Africa: A Scoping Review",
+  "authors": "Usui R, Suzuki K, Koyama A, Watabe S",
+  "journal": "Journal of obesity",
+  "date": "2026-01-01",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43069700/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-23"
  },
  {
   "id": "pmid:43066344",
