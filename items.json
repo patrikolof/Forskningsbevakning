@@ -65,6 +65,19 @@
   "added": "2026-11-10"
  },
  {
+  "id": "pmid:43099922",
+  "title": "A pre-procedural machine learning model to predict hypoxemia risk in pediatric flexible bronchoscopy",
+  "authors": "Chi W, Liu J, Li Y, Teng P",
+  "journal": "Annals of medicine",
+  "date": "2026-12-01",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43099922/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + children"
+  ],
+  "added": "2026-11-27"
+ },
+ {
   "id": "pmid:43014870",
   "title": "Inflammation and Integrative Primary Care",
   "authors": "Kohatsu W, Win R",
@@ -128,6 +141,33 @@
    "asthma + children"
   ],
   "added": "2026-11-10"
+ },
+ {
+  "id": "pmid:43098163",
+  "title": "Association of BMI with type 2 biomarkers, asthma burden, and severe asthma attack risk: an analysis of control groups of the ORACLE2 patient-level meta-analysis",
+  "authors": "Riemann S, Meulmeester FL, Mailhot-Larouche S, Wechsler ME et al.",
+  "journal": "The Lancet. Respiratory medicine",
+  "date": "2026-11-26",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43098163/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + overweight | obesity",
+   "asthma + adolescents"
+  ],
+  "added": "2026-11-27"
+ },
+ {
+  "id": "pmid:43098159",
+  "title": "Obesity and asthma: rethinking the type 2 immune landscape",
+  "authors": "Vázquez-Mera S, Uller L",
+  "journal": "The Lancet. Respiratory medicine",
+  "date": "2026-11-26",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43098159/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + overweight | obesity"
+  ],
+  "added": "2026-11-27"
  },
  {
   "id": "pmid:43094051",
@@ -273,6 +313,32 @@
   "added": "2026-11-26"
  },
  {
+  "id": "pmid:43095321",
+  "title": "High-Borderline Mean Corpuscular Volume is Associated With Aortic Stiffness in Ghanaian Young Adults",
+  "authors": "Agyekum JA, Owusu-Nyarko B, Yeboah K",
+  "journal": "Anemia",
+  "date": "2026-11-24",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43095321/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-27"
+ },
+ {
+  "id": "pmid:43095233",
+  "title": "Cardiac Rehabilitation for Eosinophilic Granulomatosis With Polyangiitis-Associated Eosinophilic Myocarditis: A Case Report",
+  "authors": "Hunziker S, Ziob M, Petrasch G, van der Stouwe JG et al.",
+  "journal": "Case reports in cardiology",
+  "date": "2026-11-24",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43095233/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + physical activity"
+  ],
+  "added": "2026-11-27"
+ },
+ {
   "id": "pmid:43084376",
   "title": "A Community Health Education and Tennis Program Promoting Children's Health",
   "authors": "Toole KP, Frank C, McGinness FS, Curl TD",
@@ -297,6 +363,19 @@
    "asthma + children"
   ],
   "added": "2026-11-25"
+ },
+ {
+  "id": "pmid:43078573",
+  "title": "Cardiovascular risk factors, endotypes of chest pain and the effect of functional coronary angiography",
+  "authors": "Kamdar A, Sidik N, Stanley B, Stobo DB et al.",
+  "journal": "Open heart",
+  "date": "2026-11-24",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43078573/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-27"
  },
  {
   "id": "pmid:43078233",
@@ -442,6 +521,19 @@
   "added": "2026-11-25"
  },
  {
+  "id": "pmid:43072836",
+  "title": "Cohort profile: Ifakara Heart and Lung Clinic cohort for patients with non-communicable heart and lung diseases in rural Tanzania",
+  "authors": "Katende A, Mutasingwa SS, Kipalaunga MK, Mahundi E et al.",
+  "journal": "BMJ open",
+  "date": "2026-11-23",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43072836/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + children"
+  ],
+  "added": "2026-11-27"
+ },
+ {
   "id": "pmid:43071681",
   "title": "Association between physical activity and obesity among young adults in Perak, Malaysia",
   "authors": "Sivapregas D, Bineid MM, Cheah ESG, Quen PL et al.",
@@ -583,6 +675,32 @@
    "asthma + children"
   ],
   "added": "2026-11-22"
+ },
+ {
+  "id": "pmid:43097581",
+  "title": "Individual and combined associations between obesity and physical activity with primary health care costs in Brazilian mid-age adults",
+  "authors": "Codogno JS, Brown WJ, Fernandes RA, Turi-Lynch BC et al.",
+  "journal": "Ciencia & saude coletiva",
+  "date": "2026-11-20",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43097581/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-27"
+ },
+ {
+  "id": "pmid:43097574",
+  "title": "Changes of physical activity and their determinants in the Brazilian longitudinal study of adult health (ELSA-Brasil)",
+  "authors": "Queiroz CO, Matos SMA, Fonseca MJMD, Pitanga FJG et al.",
+  "journal": "Ciencia & saude coletiva",
+  "date": "2026-11-20",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43097574/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-27"
  },
  {
   "id": "pmid:43093003",
@@ -1302,8 +1420,8 @@
   "url": "https://pubmed.ncbi.nlm.nih.gov/43091422/",
   "source": "PubMed",
   "tags": [
-   "asthma + overweight | obesity",
-   "asthma + children"
+   "asthma + children",
+   "asthma + overweight | obesity"
   ],
   "added": "2026-11-26"
  },
@@ -1490,6 +1608,20 @@
   "added": "2026-11-14"
  },
  {
+  "id": "pmid:43095219",
+  "title": "Participant characteristics and health- and work-related outcomes associated with persistent musculoskeletal pain and common comorbidities: A cross-sectional study of UK biobank data",
+  "authors": "Liaghat B, Nicholl BI, Øverås CK, Skou ST et al.",
+  "journal": "Journal of multimorbidity and comorbidity",
+  "date": "2026-11-13",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43095219/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + physical activity",
+   "musculoskeletal pain + asthma"
+  ],
+  "added": "2026-11-27"
+ },
+ {
   "id": "pmid:43090738",
   "title": "Clinical Features, Comorbidities, and Hospitalization Patterns in Children Diagnosed with Asthma: A 12-Year Single-Center Retrospective Cohort Study",
   "authors": "Diaconu ID, Dobrinescu AG, Forțofoiu MC, Mahler B et al.",
@@ -1498,8 +1630,8 @@
   "url": "https://pubmed.ncbi.nlm.nih.gov/43090738/",
   "source": "PubMed",
   "tags": [
-   "asthma + overweight | obesity",
-   "asthma + children"
+   "asthma + children",
+   "asthma + overweight | obesity"
   ],
   "added": "2026-11-26"
  },
@@ -1883,6 +2015,19 @@
    "overweight | obesity + physical activity"
   ],
   "added": "2026-11-13"
+ },
+ {
+  "id": "pmid:43095309",
+  "title": "Obesity and the persistent female-excess gender gap in Saudi Arabia: a scoping review of trends, determinants, and the Vision 2030 reforms",
+  "authors": "Alibrahim B, Alhaddad A",
+  "journal": "Frontiers in public health",
+  "date": "2026-11-11",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43095309/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-27"
  },
  {
   "id": "pmid:43036745",
@@ -3926,6 +4071,19 @@
    "overweight | obesity + physical activity"
   ],
   "added": "2026-11-10"
+ },
+ {
+  "id": "pmid:43097901",
+  "title": "Therapeutic effects and mechanisms of betaine on airway inflammation in severe asthma",
+  "authors": "Zhu D, Zeng Z, Li R, Wang H et al.",
+  "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+  "date": "2026-10-27",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43097901/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + children"
+  ],
+  "added": "2026-11-27"
  },
  {
   "id": "pmid:43011543",
@@ -7060,6 +7218,19 @@
    "asthma + overweight | obesity"
   ],
   "added": "2026-11-10"
+ },
+ {
+  "id": "pmid:43099513",
+  "title": "Prevalence and risk factors of allergic rhinitis in Chinese children: a systematic review and meta-analysis",
+  "authors": "Ke H, Hao C, Pu X, Wei P et al.",
+  "journal": "BMC pediatrics",
+  "date": "2026-09-04",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43099513/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + children"
+  ],
+  "added": "2026-11-27"
  },
  {
   "id": "pmid:42783214",
