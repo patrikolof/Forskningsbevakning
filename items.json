@@ -143,6 +143,58 @@
   "added": "2026-11-10"
  },
  {
+  "id": "pmid:43103598",
+  "title": "Associations of Early-Life Allergen Exposure and Sensitization with Childhood Wheeze and Asthma in Urban Children",
+  "authors": "Lee E, Nodzenski M, Wood RA, Jackson DJ et al.",
+  "journal": "The Journal of allergy and clinical immunology",
+  "date": "2026-11-27",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43103598/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + children"
+  ],
+  "added": "2026-11-28"
+ },
+ {
+  "id": "pmid:43103597",
+  "title": "Two Decades of the URECA Study: Insights into the Urban Origins of Childhood Asthma",
+  "authors": "Wood RA, Bacharier LB, Bloomberg G, Visness CM et al.",
+  "journal": "The Journal of allergy and clinical immunology",
+  "date": "2026-11-27",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43103597/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + children"
+  ],
+  "added": "2026-11-28"
+ },
+ {
+  "id": "pmid:43102771",
+  "title": "Workplace weight control program: combating obesity in a multinational factory in Egypt",
+  "authors": "El-Sallamy RM, Elghazally NM",
+  "journal": "The Journal of the Egyptian Public Health Association",
+  "date": "2026-11-27",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43102771/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-28"
+ },
+ {
+  "id": "pmid:43102450",
+  "title": "Adolescent Obesity and Long-Term All-Cause and Cardiovascular Mortality Independent of 24-Hour Movement Behaviors",
+  "authors": "García-Hermoso A, Muñoz-Pardeza J, Hormazábal-Aguayo I, Yáñez-Sepúlveda R et al.",
+  "journal": "The Journal of adolescent health : official publication of the Society for Adolescent Medicine",
+  "date": "2026-11-27",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43102450/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-28"
+ },
+ {
   "id": "pmid:43098163",
   "title": "Association of BMI with type 2 biomarkers, asthma burden, and severe asthma attack risk: an analysis of control groups of the ORACLE2 patient-level meta-analysis",
   "authors": "Riemann S, Meulmeester FL, Mailhot-Larouche S, Wechsler ME et al.",
@@ -151,8 +203,8 @@
   "url": "https://pubmed.ncbi.nlm.nih.gov/43098163/",
   "source": "PubMed",
   "tags": [
-   "asthma + overweight | obesity",
-   "asthma + adolescents"
+   "asthma + adolescents",
+   "asthma + overweight | obesity"
   ],
   "added": "2026-11-27"
  },
@@ -311,6 +363,19 @@
    "asthma + socioeconomic status"
   ],
   "added": "2026-11-26"
+ },
+ {
+  "id": "pmid:43101540",
+  "title": "Development and internal verification of an open-source mechanical ventilation simulator for teaching ventilatory trade-offs in pediatric critical asthma: A respiratory-care education tool",
+  "authors": "Taffache P, Costa L, D'Orazio C, Martina A et al.",
+  "journal": "Canadian journal of respiratory therapy : CJRT = Revue canadienne de la therapie respiratoire : RCTR",
+  "date": "2026-11-24",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43101540/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + children"
+  ],
+  "added": "2026-11-28"
  },
  {
   "id": "pmid:43095321",
@@ -1269,6 +1334,19 @@
   "added": "2026-11-18"
  },
  {
+  "id": "pmid:43100652",
+  "title": "Participant Motivation and Experience in a Prospective Study of 24-Hour Movement During Pregnancy",
+  "authors": "Ryan E, Asera A, Hallenbeck BR, Gabriel KP et al.",
+  "journal": "Research square",
+  "date": "2026-11-16",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43100652/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-28"
+ },
+ {
   "id": "pmid:43091020",
   "title": "Obesity-Physical Activity Phenotypes and Cardiometabolic Disease Burden in Cardiology Outpatients: The Role of Lifestyle-Related Risk Aggregation",
   "authors": "Dumitrescu AS, Mirica SN, Silaghi H, Fira-Mladinescu O et al.",
@@ -2093,6 +2171,19 @@
    "asthma + children"
   ],
   "added": "2026-11-12"
+ },
+ {
+  "id": "pmid:43101347",
+  "title": "Health status, hematological profiles, and health-related behaviors among first-year university students in Thailand: implications for health promoting university development",
+  "authors": "Plianrungsi J, Julraksa N, Tonsomboon A, Mongkollertlop S et al.",
+  "journal": "Frontiers in public health",
+  "date": "2026-11-10",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43101347/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-28"
  },
  {
   "id": "pmid:43081591",
@@ -4911,6 +5002,19 @@
   "added": "2026-11-10"
  },
  {
+  "id": "pmid:43105161",
+  "title": "Indoor Air Quality and Asthma: A Scoping Review of the Evidence on Asthma Incidence and Poor Asthma Control (2010-2025)",
+  "authors": "Pérez-Andreu MT, Lloreda AL, Benítez RG, Baqués AR et al.",
+  "journal": "Open respiratory archives",
+  "date": "2026-10-19",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43105161/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + children"
+  ],
+  "added": "2026-11-28"
+ },
+ {
   "id": "pmid:42974236",
   "title": "Fatty acid dysregulation in asthma: linking immunometabolic remodeling, phenotypic heterogeneity, and metabolic precision medicine",
   "authors": "Yuan Y, Peng Y",
@@ -5503,6 +5607,19 @@
    "musculoskeletal disorders + asthma"
   ],
   "added": "2026-11-10"
+ },
+ {
+  "id": "pmid:43104453",
+  "title": "Physical activity, sleep duration, and multimorbidity: a cross-sectional study of prevalence associations and association rule mining of multimorbidity patterns",
+  "authors": "Liu L, Li W, Gui M, Ju F et al.",
+  "journal": "BMC public health",
+  "date": "2026-10-08",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43104453/",
+  "source": "PubMed",
+  "tags": [
+   "asthma + physical activity"
+  ],
+  "added": "2026-11-28"
  },
  {
   "id": "pmid:43006893",
@@ -8972,6 +9089,19 @@
    "overweight | obesity + physical activity"
   ],
   "added": "2026-11-23"
+ },
+ {
+  "id": "pmid:43101137",
+  "title": "Thin illusion: a cross-sectional study on normal weight obesity among adults in a subdivision of Northern Haryana",
+  "authors": "Dalal M, Kumar N, Prabhakar V, Singh P et al.",
+  "journal": "BMJ nutrition, prevention & health",
+  "date": "2026-01-06",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43101137/",
+  "source": "PubMed",
+  "tags": [
+   "overweight | obesity + physical activity"
+  ],
+  "added": "2026-11-28"
  },
  {
   "id": "pmid:43094394",
